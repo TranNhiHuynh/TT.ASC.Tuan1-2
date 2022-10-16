@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Bai4";
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+}
+
+<div>
+<form action="/Home/Bai4" method="post">
+    <label>Nhập độ dài chuỗi muốn tạo:</label>
+    <input type="text" name="txtLength" />
+    <button type="submit">Tạo</button>
+</form>
+@{
+    if (Request.HttpMethod == "POST")
+    {
+        <label> Chuỗi là: @ViewBag.strRandom</label>
+    }
+}
+</div>
+

@@ -1,0 +1,7 @@
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\ClassLibrary1\obj\Debug\TT.ASC.DATA.csproj.AssemblyReference.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\ClassLibrary1\obj\Debug\TT.ASC.DATA.csproj.CoreCompileInputs.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\ClassLibrary1\obj\Debug\TT.ASC.DATA.csproj.SuggestedBindingRedirects.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\ClassLibrary1\bin\Debug\TT.ASC.DATA.exe
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\ClassLibrary1\bin\Debug\TT.ASC.DATA.pdb
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\ClassLibrary1\obj\Debug\TT.ASC.DATA.exe
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\ClassLibrary1\obj\Debug\TT.ASC.DATA.pdb

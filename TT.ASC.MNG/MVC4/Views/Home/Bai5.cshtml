@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Bai5";
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+}
+
+<div>
+    <form action="/Home/Bai5" method="post">
+        <label>Nhập tháng</label>
+        <input type="text" name="txtMonth" />
+        <label>Nhập năm</label>
+        <input type="text" name="txtYear" />
+        <button type="submit">Xác nhận</button>
+    </form>
+    @{
+        if (Request.HttpMethod == "POST")
+        {
+            <label> Ngày đầu tiên của tháng @ViewBag.month/@ViewBag.year: @ViewBag.firstDayOfMonth</label>
+        }
+    }
+</div>
+

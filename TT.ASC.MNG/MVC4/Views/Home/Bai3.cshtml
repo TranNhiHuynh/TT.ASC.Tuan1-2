@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "Bai3";
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+}
+
+<h2>Đọc số tiền bất kỳ</h2>
+
+<div>
+    <form action="/Home/Bai3" method="post">
+        <label>Điền số bất kì:</label>
+        <input type="text" name="txtNumber" />
+        <button type="submit">Đọc</button>
+    </form>
+    @{
+        if (Request.HttpMethod == "POST")
+        {
+            <label> Đọc là: @ViewBag.readNumber</label>
+        }
+    }
+</div>
+

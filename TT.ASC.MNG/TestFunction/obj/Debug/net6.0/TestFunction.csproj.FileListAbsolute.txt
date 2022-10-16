@@ -1,0 +1,15 @@
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\bin\Debug\net6.0\TestFunction.exe
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\bin\Debug\net6.0\TestFunction.deps.json
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\bin\Debug\net6.0\TestFunction.runtimeconfig.json
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\bin\Debug\net6.0\TestFunction.dll
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\bin\Debug\net6.0\TestFunction.pdb
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\TestFunction.csproj.AssemblyReference.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\TestFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\TestFunction.AssemblyInfoInputs.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\TestFunction.AssemblyInfo.cs
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\TestFunction.csproj.CoreCompileInputs.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\TestFunction.dll
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\refint\TestFunction.dll
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\TestFunction.pdb
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\TestFunction.genruntimeconfig.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TestFunction\obj\Debug\net6.0\ref\TestFunction.dll

@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Bai8";
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+}
+
+<div>
+    <form action="/Home/Bai8" method="post">
+        <label>Nhập ngày</label>
+        <input type="text" name="txtDay" />
+        <label>Nhập tháng</label>
+        <input type="text" name="txtMonth" />
+        <label>Nhập năm</label>
+        <input type="text" name="txtYear" />
+        <button type="submit">Xác nhận</button>
+    </form>
+    @{
+        if (Request.HttpMethod == "POST")
+        {
+            <label> Ngày cuối tuần của ngày @ViewBag.day/@ViewBag.month/@ViewBag.year: @ViewBag.lastDayOfWeek</label>
+        }
+    }
+</div>
+

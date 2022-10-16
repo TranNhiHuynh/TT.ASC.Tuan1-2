@@ -1,0 +1,28 @@
+﻿
+@{
+    ViewBag.Title = "Bai10";
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+}
+
+<div>
+    <form action="/Home/Bai10" method="post">
+        <label>Nhập gamil</label>
+        <input type="text" name="txtGmail" />
+        <button type="submit">Kiểm tra</button>
+    </form>
+    @{
+        if (Request.HttpMethod == "POST")
+        {
+            if (ViewBag.checkGmail == true)
+            {
+                <label> Gmail nhập chính xác</label>
+            }
+            else
+            {
+                <label> Gmail nhập chưa chính xác</label>
+                }
+
+            }
+        }
+    </div>
+

@@ -1,0 +1,12 @@
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\bin\Debug\net6.0\TT.ASC.DATA.deps.json
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\bin\Debug\net6.0\TT.ASC.DATA.dll
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\bin\Debug\net6.0\TT.ASC.DATA.pdb
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\TT.ASC.DATA.csproj.AssemblyReference.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\TT.ASC.DATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\TT.ASC.DATA.AssemblyInfoInputs.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\TT.ASC.DATA.AssemblyInfo.cs
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\TT.ASC.DATA.csproj.CoreCompileInputs.cache
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\TT.ASC.DATA.dll
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\refint\TT.ASC.DATA.dll
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\TT.ASC.DATA.pdb
+C:\Users\HuynhTran\Desktop\ASC\TT.ASC.MNG\TT.ASC.DATA\obj\Debug\net6.0\ref\TT.ASC.DATA.dll

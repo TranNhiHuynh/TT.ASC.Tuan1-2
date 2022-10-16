@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "Bai13";
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+}
+
+<div>
+    <form action="/Home/Bai12" method="post">
+        <label>Nhập vào tên:</label>
+        <input type="text" name="txtName" />
+        <button type="submit">Xác nhận</button>
+    </form>
+    @{
+        if (Request.HttpMethod == "POST")
+        {
+            <label>Làm tròn Round: @ViewBag.round</label>
+            <label>Làm tròn Truncate: @ViewBag.truncate</label>
+            <label>Làm tròn Ceiling: @ViewBag.ceiling</label>
+            <label>Làm tròn Floor: @ViewBag.floor</label>
+
+        }
+    }
+</div>

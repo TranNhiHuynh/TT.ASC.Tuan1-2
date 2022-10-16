@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Bai9";
+    Layout = "~/Views/Shared/MasterPage.cshtml";
+}
+
+<div>
+    <form action="/Home/Bai9" method="post">
+        <label>Nhập chuỗi</label>
+        <input type="text" name="txtString" />
+        <button type="submit">Xác nhận</button>
+    </form>
+    @{
+        if (Request.HttpMethod == "POST")
+        {
+            <label> Số khoảng trắng là : @ViewBag.countSpace</label>
+        }
+    }
+</div>
+
